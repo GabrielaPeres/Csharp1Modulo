@@ -1,0 +1,16 @@
+C:\Users\Carlos\Desktop\curso .NET\atividades git\aula8cs\bin\Debug\net5.0\aula8cs.exe
+C:\Users\Carlos\Desktop\curso .NET\atividades git\aula8cs\bin\Debug\net5.0\aula8cs.deps.json
+C:\Users\Carlos\Desktop\curso .NET\atividades git\aula8cs\bin\Debug\net5.0\aula8cs.runtimeconfig.json
+C:\Users\Carlos\Desktop\curso .NET\atividades git\aula8cs\bin\Debug\net5.0\aula8cs.runtimeconfig.dev.json
+C:\Users\Carlos\Desktop\curso .NET\atividades git\aula8cs\bin\Debug\net5.0\aula8cs.dll
+C:\Users\Carlos\Desktop\curso .NET\atividades git\aula8cs\bin\Debug\net5.0\aula8cs.pdb
+C:\Users\Carlos\Desktop\curso .NET\atividades git\aula8cs\obj\Debug\net5.0\aula8cs.csproj.AssemblyReference.cache
+C:\Users\Carlos\Desktop\curso .NET\atividades git\aula8cs\obj\Debug\net5.0\aula8cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlos\Desktop\curso .NET\atividades git\aula8cs\obj\Debug\net5.0\aula8cs.AssemblyInfoInputs.cache
+C:\Users\Carlos\Desktop\curso .NET\atividades git\aula8cs\obj\Debug\net5.0\aula8cs.AssemblyInfo.cs
+C:\Users\Carlos\Desktop\curso .NET\atividades git\aula8cs\obj\Debug\net5.0\aula8cs.csproj.CoreCompileInputs.cache
+C:\Users\Carlos\Desktop\curso .NET\atividades git\aula8cs\obj\Debug\net5.0\aula8cs.dll
+C:\Users\Carlos\Desktop\curso .NET\atividades git\aula8cs\obj\Debug\net5.0\refint\aula8cs.dll
+C:\Users\Carlos\Desktop\curso .NET\atividades git\aula8cs\obj\Debug\net5.0\aula8cs.pdb
+C:\Users\Carlos\Desktop\curso .NET\atividades git\aula8cs\obj\Debug\net5.0\aula8cs.genruntimeconfig.cache
+C:\Users\Carlos\Desktop\curso .NET\atividades git\aula8cs\obj\Debug\net5.0\ref\aula8cs.dll
